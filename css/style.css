@@ -1,0 +1,34 @@
+body {
+  line-height: 1.5;
+  color: #F8F8FF;
+  font-family: 'Raleway', sans-serif;
+  background: url('../images/budapest.png'); 
+
+  /* Full Page Background Receipe */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.container {
+  width: 500px;
+  margin: 20px;
+  padding: 20px;
+  background-color: rgba(32,47,55,0.75);
+  border-radius: 16px;
+}
+
+h1 {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 68px;
+	margin-bottom: -20px;
+}
+
+h2 {
+	font-size: 30px;
+}
+
+a {
+	color: rgb(208,209,211);
+	text-decoration: none;
+}
